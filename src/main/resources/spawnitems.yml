@@ -1,0 +1,19 @@
+items:
+  stats:
+    item: 'PAPER'
+    name: '&bStats'
+    slot: 0
+    hide-attributes: true
+    right-click-command: stats
+  leaderboard:
+    item: 'NETHER_STAR'
+    name: '&bLeaderboards'
+    slot: 4
+    hide-attributes: true
+    right-click-command: leaderboards
+  settings:
+    item: 'COMPASS'
+    name: '&bSettings'
+    slot: 8
+    hide-attributes: true
+    right-click-command: settings
